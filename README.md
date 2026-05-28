@@ -1,6 +1,5 @@
 # Next Destination - Travel Agency Platform
 
-![Project Banner](images/logo.png) *(Note: Replace with your actual project banner/logo)*
 
 **Next Destination** is a comprehensive, dynamic Travel Agency Web Application built to handle both client-facing travel bookings and back-office management. It offers a seamless experience for users to browse, search, and book travel packages and hotels, while providing administrators with a powerful dashboard to manage content, availability, and reservations.
 
